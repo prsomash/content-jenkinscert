@@ -8,6 +8,7 @@ public class Test2 {
           @Test
 	  public void run() {
 		 Assert.assertEquals(2 + 2, 4); 
+		 Assert.assertEquals(2 + 3, 5);
            }
 }
 
